@@ -1,2 +1,9 @@
-<h1>Users#show</h1>
-<p>Find me in app/views/users/show.html.erb</p>
+<h1>Hello <%= @user.first_name %></h1>
+
+<ul>
+	<% @posts.each do |post| %>
+	<li>
+		<%= link_to post.title, post_path(post) %>
+	</li>
+	<% end %>
+</ul>
