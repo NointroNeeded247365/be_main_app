@@ -21,6 +21,20 @@
     <%= form.text_area :description, id: :post_description %>
   </div>
 
+  <div class="field">
+    <%= form.field :video %>
+    <% @post.each do |post| %>
+      <%= post.name %>
+      <% video_tag post.video_url.to_s :controls => true %>
+    <% end %>
+  </div>
+
+<!-- if @post.each do function doesn't work as it
+should here. transfer it to show.html.erb.
+
+This is supposed to allow viewing/streaming of the 
+videos posted by users -->
+
   <div class="actions">
     <%= form.submit %>
   </div>
