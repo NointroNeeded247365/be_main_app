@@ -34,6 +34,7 @@ gem 'frontend-generators'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
 gem 'devise'
+gem 'carrierwave'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
