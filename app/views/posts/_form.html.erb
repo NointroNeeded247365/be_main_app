@@ -21,12 +21,10 @@
     <%= form.text_area :description, id: :post_description %>
   </div>
 
+  <</fieldset>
+
   <div class="field">
-    <%= form.field :video %>
-    <% @post.each do |post| %>
-      <%= post.name %>
-      <% video_tag post.video_url.to_s :controls => true %>
-    <% end %>
+    <%= form.file_field :video %>
   </div>
 
 <!-- if @post.each do function doesn't work as it
