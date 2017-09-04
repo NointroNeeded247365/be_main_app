@@ -5,6 +5,12 @@ class PostsControllerTest < ActionDispatch::IntegrationTest
     @post = posts(:one)
   end
 
+  def sign_in(user)
+    post user_session_path \
+      "user[emai]" => user.email,
+      "user[password]" => user.password
+  end
+
   test "should get index" do
     get posts_url
     assert_response :success
