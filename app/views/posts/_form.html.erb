@@ -21,10 +21,13 @@
     <%= form.text_area :description, id: :post_description %>
   </div>
 
-  <</fieldset>
-
   <div class="field">
     <%= form.file_field :video %>
+  </div>
+
+  <div class="field">
+    <%= form.label :remote_video_url, "or video URL" %> <br>
+    <%= form.text_field :remote_video_url %>
   </div>
 
 <!-- if @post.each do function doesn't work as it
