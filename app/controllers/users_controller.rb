@@ -14,8 +14,14 @@ class UsersController < ApplicationController
   def edit
   end
 
-  #def create
-  #end
+  def create
+    @user = User.new(user_params)
+    if @user.save
+      puts "User created"
+    else
+      return "Please enter correct information"
+    end
+  end
 
   #def update
   #end
@@ -31,6 +37,6 @@ class UsersController < ApplicationController
   end
 
   def user_params
-    params.require(:user).permit(:email, :password, :name)
+    params.require(:user).permit(:email, :password, :first_name, :last_name)
   end
 end
