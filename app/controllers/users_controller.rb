@@ -25,12 +25,12 @@ class UsersController < ApplicationController
     redirect_to root_path
   end
 
-  private 
+  private
   def set_user
     @user = User.find(params[:id])
   end
 
   def user_params
-    params.require(:user).permit(:email, :password)
+    params.require(:user).permit(:email, :password, :name)
   end
 end
