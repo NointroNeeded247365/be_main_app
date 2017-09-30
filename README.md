@@ -4,6 +4,8 @@
 
 ## HOW TO RUN
 
+MacOS
+
 1. Clone repository
 2. From your CLI, navigate to project directory
 3. Run ``rails s``
