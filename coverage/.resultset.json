@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/robertdore/code/be_main_app/spec/controllers/devise/registrations_controller_spec.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/spec/controllers/devise/registrations_controller_spec.rb": [
         1,
         null,
         null,
@@ -27,7 +27,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/spec/rails_helper.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -93,14 +93,14 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/environment.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/robertdore/code/be_main_app/config/application.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/application.rb": [
         1,
         null,
         1,
@@ -120,12 +120,12 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/boot.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/robertdore/code/be_main_app/config/spring.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/spring.rb": [
         null,
         null,
         null,
@@ -133,7 +133,7 @@
         null,
         5
       ],
-      "/Users/robertdore/code/be_main_app/config/environments/test.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/environments/test.rb": [
         1,
         null,
         null,
@@ -177,7 +177,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/application_controller_renderer.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -185,7 +185,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/assets.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -206,7 +206,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/backtrace_silencers.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -215,14 +215,14 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/cookies_serializer.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
         null,
         1
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/devise.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/devise.rb": [
         null,
         null,
         1,
@@ -501,13 +501,13 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/filter_parameter_logging.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/inflections.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -525,13 +525,13 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/mime_types.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/initializers/wrap_parameters.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -547,7 +547,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/config/routes.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/config/routes.rb": [
         1,
         null,
         1,
@@ -556,7 +556,7 @@
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/models/user.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/models/user.rb": [
         1,
         null,
         null,
@@ -566,29 +566,29 @@
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/models/application_record.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/helpers/application_helper.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/helpers/posts_helper.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/helpers/posts_helper.rb": [
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/helpers/users_helper.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/helpers/users_helper.rb": [
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/controllers/application_controller.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/Users/robertdore/code/be_main_app/spec/controllers/users_controller_spec.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/spec/controllers/users_controller_spec.rb": [
         1,
         null,
         null,
@@ -616,7 +616,7 @@
         null,
         null
       ],
-      "/Users/robertdore/code/be_main_app/app/controllers/users_controller.rb": [
+      "/Users/Paci/Desktop/be_excellent_application/be/app/controllers/users_controller.rb": [
         1,
         1,
         null,
@@ -661,6 +661,6 @@
         null
       ]
     },
-    "timestamp": 1506547434
+    "timestamp": 1507257408
   }
 }
